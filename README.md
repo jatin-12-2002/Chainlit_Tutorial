@@ -14,7 +14,7 @@ To set up the Chainlit ChatBot locally, follow these steps:
 
 ### Step-2: Navigate to the project directory:
 ```bash
-    cd Source_Code_Analysis
+    cd Chainlit_Tutorial
 ```
 
 ### Step-3: Run the init_setup.sh File:
